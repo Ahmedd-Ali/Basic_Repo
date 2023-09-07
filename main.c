@@ -4,7 +4,7 @@
 
 int main()
 {
-	char f= 12;
+	char develop= 77;
 	
 	/* Develop version */
 	int z= x + 1;
