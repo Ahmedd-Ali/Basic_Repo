@@ -4,7 +4,7 @@
 
 int main()
 {
-	int x= 10;
+	int master= 88;
 	
 	/* Develop version */
 	int z= x + 1;
