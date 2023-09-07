@@ -4,7 +4,7 @@
 
 int main()
 {
-	int x= 10;
+	char f= 12;
 	
 	/* Develop version */
 	int z= x + 1;
