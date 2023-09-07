@@ -4,6 +4,8 @@
 
 int main()
 {
+	new commit
+	
 	char develop= 77;
 	
 	/* Develop version */
